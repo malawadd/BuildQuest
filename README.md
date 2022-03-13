@@ -42,7 +42,7 @@ the snake game is a classic snake game developed using unity , when the game sta
 ## Directory Structure
 
 ```
-📦 Naaqla
+📦 The collection
  ┣ 📂 build (contains the game build)
  ┣ 📜 README.md (Project Documentation)
  ┣ 📜 index.html(for game build)
