@@ -17,6 +17,19 @@ the snake game is a classic snake game developed using unity , when the game sta
 - Fleek
 - Pinata
 
+### Minting 
+
+![https://i.imgur.com/97n8iYM.gif](https://i.imgur.com/97n8iYM.gif)
+
+### Snake Game
+
+![https://i.imgur.com/0Nqj34h.gif](https://i.imgur.com/0Nqj34h.gif)
+
+
+### Pass
+![https://i.imgur.com/tbFyU2g.gif](https://i.imgur.com/tbFyU2g.gif)
+
+
 ## Future Work
 -  Use moralis for easier web 3 authentication 
 -  Add music
@@ -27,7 +40,6 @@ the snake game is a classic snake game developed using unity , when the game sta
 
 
 ## Directory Structure
-
 
 ```
 📦 Naaqla
